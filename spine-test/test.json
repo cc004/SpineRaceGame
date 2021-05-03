@@ -1,0 +1,359 @@
+{
+  "unit": [
+    "105901",
+    "101201",
+    "102001",
+    "103801",
+    "102901"
+  ],
+  "status": [
+    {
+      "pos": [
+        15,
+        15,
+        15,
+        15,
+        15
+      ],
+      "msg": "运动员们已经就绪！\n",
+      "skills": null,
+      "abnormal": null
+    },
+    {
+      "pos": [
+        13,
+        14,
+        13,
+        13,
+        14
+      ],
+      "msg": "第1轮跑步:\n",
+      "skills": null,
+      "abnormal": null
+    },
+    {
+      "pos": [
+        15,
+        14,
+        15,
+        15,
+        12
+      ],
+      "msg": "技能发动阶段:\n可可萝:none\n初音:初音不知不觉升到了六星，使用了[大荒星陨]！其他全员暂停一回合并后退3步！\n美美:none\n栞:none\n望:望使用了UB[演出开始]！自己前进了3步，其他全体沉迷演出，暂停1回合。",
+      "skills": [
+        0,
+        4,
+        0,
+        0,
+        3
+      ],
+      "abnormal": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "pos": [
+        15,
+        14,
+        15,
+        15,
+        12
+      ],
+      "msg": "第2轮跑步:\n",
+      "skills": null,
+      "abnormal": null
+    },
+    {
+      "pos": [
+        15,
+        14,
+        15,
+        15,
+        12
+      ],
+      "msg": "技能发动阶段:\n可可萝:none\n初音:none\n美美:none\n栞:none\n望:none",
+      "skills": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abnormal": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "pos": [
+        15,
+        12,
+        15,
+        15,
+        11
+      ],
+      "msg": "第3轮跑步:\n",
+      "skills": null,
+      "abnormal": null
+    },
+    {
+      "pos": [
+        12,
+        9,
+        15,
+        15,
+        10
+      ],
+      "msg": "技能发动阶段:\n可可萝:可可萝使用了UB[极光绽放]！可可萝前进4步，主人前进2步，其他全体前进1步。\n初音:初音使用了UB[流星]。其他全员后退1步，初 音前进了2步。\n美美:none\n栞:none\n望:none",
+      "skills": [
+        3,
+        3,
+        0,
+        0,
+        0
+      ],
+      "abnormal": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "pos": [
+        11,
+        7,
+        13,
+        14,
+        8
+      ],
+      "msg": "第4轮跑步:\n",
+      "skills": null,
+      "abnormal": null
+    },
+    {
+      "pos": [
+        11,
+        9,
+        13,
+        14,
+        9
+      ],
+      "msg": "技能发动阶段:\n可可萝:none\n初音:none\n美美:none\n栞:[全力之矢]！栞使自 己外第一名后退2步，第二名后退1步，下一回合必放UB。\n望:none",
+      "skills": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "abnormal": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "pos": [
+        9,
+        8,
+        12,
+        13,
+        8
+      ],
+      "msg": "第5轮跑步:\n",
+      "skills": null,
+      "abnormal": null
+    },
+    {
+      "pos": [
+        8,
+        7,
+        9,
+        10,
+        10
+      ],
+      "msg": "技能发动阶段:\n可可萝:可可萝使用了UB[极光绽放]！可可萝前 进4步，主人前进2步，其他全体前进1步。\n初音:none\n美美:美美使用了UB[兔子先生斩击！美美前进了2步，自己外第1名后退3步，第2名后退4步！\n栞:栞使用了UB[附魔之矢]！前进了2步，并且变得更强了。\n望:none",
+      "skills": [
+        3,
+        0,
+        3,
+        3,
+        0
+      ],
+      "abnormal": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "pos": [
+        6,
+        5,
+        7,
+        9,
+        9
+      ],
+      "msg": "第6轮跑步:\n",
+      "skills": null,
+      "abnormal": null
+    },
+    {
+      "pos": [
+        6,
+        5,
+        7,
+        7,
+        6
+      ],
+      "msg": "技能发动阶段:\n可可萝:none\n初音:“好困啊，先睡一觉吧......”初音睡着了，暂停1回合，并拉了1号选手一起睡。\n美美:none\n栞:栞骑上了喵特酱，前进了2步。下一回合必放UB。自己有些头晕，暂停一回合。\n望:望使用了UB[演出开始]！自己前进了3步，其他全体沉迷演出，暂停1回合。",
+      "skills": [
+        0,
+        2,
+        0,
+        2,
+        3
+      ],
+      "abnormal": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "pos": [
+        6,
+        5,
+        7,
+        7,
+        5
+      ],
+      "msg": "第7轮跑步:\n",
+      "skills": null,
+      "abnormal": null
+    },
+    {
+      "pos": [
+        6,
+        5,
+        7,
+        3,
+        5
+      ],
+      "msg": "技能发动阶段:\n可可萝:none\n初音:none\n美美:none\n栞:栞使用了UB[附魔之矢]！前进了4步，并且变得更强了。\n望:none",
+      "skills": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ],
+      "abnormal": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "pos": [
+        6,
+        5,
+        6,
+        3,
+        4
+      ],
+      "msg": "第8轮跑步:\n",
+      "skills": null,
+      "abnormal": null
+    },
+    {
+      "pos": [
+        6,
+        3,
+        6,
+        3,
+        4
+      ],
+      "msg": "技能发动阶段:\n可可萝:none\n初音:初音使用了超能力飞行，向前飞了两步。\n美美:none\n栞:none\n望:none",
+      "skills": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "abnormal": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "pos": [
+        5,
+        1,
+        4,
+        1,
+        2
+      ],
+      "msg": "第9轮跑步:\n",
+      "skills": null,
+      "abnormal": null
+    },
+    {
+      "pos": [
+        5,
+        1,
+        4,
+        1,
+        2
+      ],
+      "msg": "技能发动阶段:\n可可萝:none\n初音:初音使用了超能力飞行，向前飞了两步。\n美美:none\n栞:栞突然变成了魔法少女！栞前进了4步，且下一回合必放UB！\n望:none",
+      "skills": [
+        0,
+        1,
+        0,
+        4,
+        0
+      ],
+      "abnormal": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "pos": [
+        3,
+        1,
+        2,
+        1,
+        1
+      ],
+      "msg": "第10轮跑步:\n",
+      "skills": null,
+      "abnormal": null
+    }
+  ]
+}
